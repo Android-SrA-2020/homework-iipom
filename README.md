@@ -1,3 +1,3 @@
 # Readme
 
-Homework repo for Noah Andrews
+Homework repo
